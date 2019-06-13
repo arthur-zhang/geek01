@@ -5,3 +5,8 @@ CMakeFiles
 Makefile            
 cmake-build-debug   
 cmake_install.cmake 
+target
+*.class
+bk
+dependency-reduced-pom.xml
+libs
